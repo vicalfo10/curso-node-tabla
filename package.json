@@ -11,5 +11,15 @@
   "dependencies": {
     "colors": "^1.4.0",
     "yargs": "^17.1.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicalfo10/curso-node-tabla.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/vicalfo10/curso-node-tabla/issues"
+  },
+  "homepage": "https://github.com/vicalfo10/curso-node-tabla#readme"
 }
